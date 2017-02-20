@@ -1,0 +1,54 @@
+ZipperRules'
+#   #  ###  #   #  #### ##### ##### ####
+## ## #   # ##  # #       #   #     #   #
+# # # #   # # # #  ###    #   ###   ####
+#   # #   # #  ##     #   #   #     #  #
+#   #  ###  #   # ####    #   ##### #   #
+                      R6 Turbo + Repaints
+
+This chimera of a monster truck has the following models in use;
+
+Body.....R6 Turbo
+Wheels...Mouse
+Axel.....Candy Pebbles
+
+On top of different body paints, there are also different wheel paints that are bundled in each car texture. As follows;
+
+Acclaim Entertainment Turbo R6 paint, Acclaim Entertainment Mouse wheels
+Acclaim Entertainment "Canned R6" paint, Tsunami Visual Mouse Yellow wheels
+R6 Toyland Version paint, Tsunami Visual Mouse Red's wheels
+R6 Turbo Xtreme paint, default rims adapted for Mouse's wheels
+Special reskin exclusive to this pack using Tsunami Visual's Mouse Green weels
+
+Root cars:
+/ZR6
+Repaints
+/ZR6R5
+/ZR6X (Root for rearwing.prm)
+/ZR6T
+/ZR6K
+
+For special bonus repaints, scan the QR code below;
+(Problems? Set font to Courier, Courier New, Monospace or Lucida Console.)
+
+                                  
+    ▄▄▄▄▄▄▄   ▄   ▄    ▄  ▄▄▄▄▄▄▄
+    █ ▄▄▄ █ ▄▀ ▄ ▀ ▄ ▀ ▀█ █ ▄▄▄ █
+    █ ███ █  █  ██  █▄██▀ █ ███ █
+    █▄▄▄▄▄█ ▄ █▀█ █▀█ ▄▀█ █▄▄▄▄▄█
+    ▄▄▄ ▄▄▄▄█  ▀▄  ▀▄▀▀ ▄▄▄   ▄  
+    ▀▀ ▄ ▀▄ ▄▀▄██▀▄██▀▄▀██▀█▄▀▄▄█
+    ▀▀▄█▄█▄█▄▀█▄▀▀█▄██▀▄ ███▀▄ █▄
+    █▄ ▀█▄▄▄▄ ▀▀ ▄▀▀▄▄█▀█▀█ ▄█ ▄█
+    ▄ ▄▄  ▄ ▄██▀▄   ▀▀ ▀ ▄██ █ █▄
+    ▄ ▀▄  ▄▀▄▄▀██▀▄▀▀█▀▀▀█▀▄ ▀▀▄█
+    ▄▀▀▄▄█▄▀▄▄▄▄▀▀█▀▄▀  █▄█▄█▀ ▀ 
+    ▄▄▄▄▄▄▄ █▄█▀ ▄▀▀▀ █▀█ ▄ █▄▀██
+    █ ▄▄▄ █ █▄▄▀▄   ▀▀▀ █▄▄▄█▀  ▄
+    █ ███ █ ▄ ███▀▄▀█ █▄▀  ██▄▀▀█
+    █▄▄▄▄▄█ █ ▄▄▀▀█  ▀▀▀█▄█ █  █▄
+                                  
+
+Mouse's wheels and Candy Pebbles' axel has been specially modified to play (somewhat) nicely with all textures. Other modifications include the hull, which is also from the R6, only repositioned to work with the higher wheelbase.
+
+The wheels are a bit buggy, as the UV map isn't playing nice to remove the gradiation that doesn't exist on Mouse's wheels, but that is entirely forgiveable considering what I'm asking the game to render. Also, the aerial had been repositioned to be smack in the middle of the roof to prevent the odd clipping issues seen while in use.
