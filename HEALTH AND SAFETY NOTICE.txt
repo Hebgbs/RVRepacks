@@ -1,0 +1,46 @@
+  ###  ####   ###   ###  ####  #####
+ #   # #   # #   # #   # #   # #
+ ##### ####  #     ##### #   # ###
+ #   # #  #  #   # #   # #   # #
+ #   # #   #  ###  #   # ####  #####
+Re-Volt Arcade Cars repack, 115 cars!
+ ####  ##### ####   ###   ###  #   #
+ #   # #     #   # #   # #   # #  #
+ ####  ###   ####  ##### #     ###
+ #  #  #     #     #   # #   # #  #
+ #   # ##### #     #   #  ###  #   #
+
+All stock vehicles come from the game. As follows, each set has 23 different vehicles, using common resources from the following vehicles:
+- Adeon
+- AMW
+- Dr. Grudge
+- Candy Pebbles
+- Cougar
+- RC San
+- Evil Weasel
+- Pole Poz
+- Genghis Kar *1
+- Dust Mite
+- Mouse *2
+- Phat Slug
+- RC Bandit
+- Humma
+- Zipper
+- Volken Turbo
+- Pest Control
+- Aquasonic
+- NY 54
+- Sprinter XL
+- Toyeca
+- Probe UFO (renamed UFO)*4
+- Volken Turbo
+
+Considering there are five sets in each color, that's 115 cars this pack comes with. Every car has a carbox to go with it!*3 Great for battle tag, competitive play or whatever other ideas you might have that modifies the metagame of Re-Volt. APPLY PRIMARY SET FIRST by copying /cars over before using any of the contents in /altparams to further modify the contents.
+
+*1 - Modified stock body models come with the set, if you don't like those copy the contents of the /gencarfixes folder in /altparams to your installation. In doing so, the original gancar models become part of the common respirce in /cars once again, while the repaints use the modified body models.
+
+*2 - Carbox? What carbox? Mouse doesn't need a carbox! Actually, Mouse never had a carbox, which is why the stock box graphic is used instead.
+
+*3 - Carboxes for Drone were incomplete, thusly they never were used in the arcade, nor were they intended to be used with the drone cars in the select screen.
+
+*4 - UFO repaints do NOT fly. If you want it flying, look in /altparams to make that magic happen.
