@@ -1,0 +1,74 @@
+# # # ##### ##### ####  ####         ##         # # #  ###   ###  #   # #   #
+# # # #       #   #   # #   #       #  #        # # # #   # #   # #  #   # #
+# # # ###     #   ####  #   #        ## #       # # # ##### #     ###     #
+# # # #       #   #  #  #   #       #  #        # # # #   # #   # #  #    #
+ # #  ##### ##### #   # ####         ## #        # #  #   #  ###  #   #   #
+
+ #### #####  ###   ###  #   #  ####       ####   ###   ###  #   #
+#       #   #   # #   # #  #  #           #   # #   # #   # #  #
+ ###    #   #   # #     ###    ###        ####  ##### #     ###
+    #   #   #   # #   # #  #      #       #     #   # #   # #  #
+####    #    ###   ###  #   # ####        #     #   #  ###  #   #
+
+This pack contains (at the moment) two stock cars with some odd alterations that make them drive and handle rather strangely. As follows;
+
+2wheel mk2
+RC Bandit with two wheels. Alterations for this pack;
+* Added front fork
+* Modified body.prm to not have the front bumper
+* Completely rebuilt the bottom and front of the vehicle
+* Thanks to Citywalker, it leans and tumbles like a bike!
+* Repaints that include the WeGo Interactive and Tsunami Visual skins
+* Shadow made just for this pack
+* PRO-Ex reskin includes its own body to utilize the included texture
+
+Dust Mite 3 Wheels
+Dust Mite... with three wheels. It drives like it has three wheels as well, because it tips and rolls like a Reliant Robin if you took all the weight off at high speeds. Alterations for this pack;
+* Repaints that include the Tsunami Visual skins
+* Also included a reimagining of the stock paint, and unaltered canned paint
+* Shadow made just for this pack
+
+2wheel mk2 runs a bit slower, but because of how well it handles in comparison to the three-wheeled Dust Mite, it doesn't tip over quite as easily. You still have to watch bumping into things (as it bounces a LOT) and you cannot fire weapons unless in the air because of its high center of mass, which si required for the leaning to work.
+
+On the other hand, while Dust Mite 3 wheels has more speed to offer, it doesn't quite have the acceleration, and as said before, it likes to tumble. In the hands of a novice, 2wheel mk2 can beat the dust mite hands-down. But because of how the AI handles both cars, human players stand a chance to win with them both no matter what they choose.
+
+Both cars look amazing when used in a group (having only these cars in your cars folder), and they play nice with the slower stock cars.
+
+Do not delete root cars, as they provide their assets to the other vehicles included in the pack. Folders as follows;
+
+2wheelblue
+2wheeldrone
+2wheelgreen
+2wheelmk2 (Root car)
+2wheelpro (Special repaint)
+2wheelred
+2wheelyellow
+mite3blue
+mite3canned (Special repaint)
+mite3classic (Special repaint)
+mite3drone
+mite3green
+mite3red
+mite3wheels (Root car)
+mite3yellow
+
+For special bonus repaints, scan the QR code below!
+(Problems? Set font to Courier, Courier New, Monospace or Lucida Console.)
+
+
+    ▄▄▄▄▄▄▄ ▄▄▄▄ ▄▄▄ ▄ ▄  ▄▄▄▄▄▄▄
+    █ ▄▄▄ █ ▀▄ ▀ ▄ ▀ ▄▀▄▀ █ ▄▄▄ █
+    █ ███ █ ▄  ██  ██ █▄▀ █ ███ █
+    █▄▄▄▄▄█ █▀█ █▀█ █▀█ █ █▄▄▄▄▄█
+    ▄▄▄  ▄▄ ██ ▄▄█ ▄▄ ▀█▀▄▄▄▄  ▄▄
+    █▄ ▄▀▀▄▄▄▄▄ █▄▄ █  ██ ▀ ▄▄▄▀█
+    ▄▄█▄▀▀▄▄▀▄█▀▀▄█▀█ ▀   █ ▀▀  ▄
+    ▄▀ ▄▄▀▄▄ ▄▀▄ ▀▀▄▄ █▄▀▄██▄  ▀█
+    ▄▀█▀ ▀▄  ▀ ▄▄█ █  ▄██▀█     ▄
+    ▄█▄▀█▀▄ ▀ ▄ █▄▄█  ▀█▀ ▀▀ ▄▀▀█
+    ▄▄▄▀ █▄▀▄▀▄▀▀▄█    ▄█████▄ ▄ 
+    ▄▄▄▄▄▄▄ ▀▄▀▄ ▀▀▄▀▄█▄█ ▄ █▀▀ █
+    █ ▄▄▄ █ ▀▄▀▄▄█ █▀ ▀██▄▄▄█▄ █▄
+    █ ███ █ ▄ █ █▄▄██▀ ▀▀█  █▀▀▄█
+    █▄▄▄▄▄█ █▄▀▀▀▄█▀█▄ ▄█▀████  ▄
+
