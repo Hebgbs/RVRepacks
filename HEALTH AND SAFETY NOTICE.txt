@@ -1,0 +1,28 @@
+##### #   #  ####  ###  #   # #####        ###  ##### #   #
+  #   ##  # #     #   # ##  # #           #   #   #   #   #
+  #   # # #  ###  ##### # # # ###         #####   #   #   #
+  #   #  ##     # #   # #  ## #           #   #   #    # #
+##### #   # ####  #   # #   # #####       #   #   #     #
+
+####  ##### #   #  ###  #   # ####        Handlebar spinner
+#   # #     #   # #   # ## ## #   #          by RexReynolds
+####  ###   #   # ##### # # # ####
+#  #  #      # #  #   # #   # #           Body fix + colors
+#   # #####   #   #   # #   # # 1.0          by ElectricBee
+
+IAtv is the root vehicle.
+If modified, changes will be reflected for the following;
+/IAtv_G
+/IAtv_K
+/IAtv_O
+/IAtv_R
+/IAtv_V
+
+This vehicle is a combined effort by RexReynolds and ElectricBee to ascend it into the glory it deserves for being awesome. RexReynolds figured out how to make the handlebars turn with steering, while I slightly modified the body model and U / V mapping to make things look symmetrical and provided different colors for the car. (All without breaking the transparency of certain vehicle components!)
+
+By default, the other colors are co-dependent on the main vehicle "IAtv". It's easy enough to make each vehicle independent if you either a) don't like the root vehicle or b) don't want to worry about transferring the root vehicle to make the other vehicles work. Using IAtv red as an example;
+
+- Open the target file
+- Find and replace; Replace (exactly) /IAtv/ with /IAtv_R/
+- Save and overwrite
+- Copy everything (except for car.*) to IAtv_R
