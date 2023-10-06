@@ -5,7 +5,7 @@
 ; Candy Pebbles
 ;============================================================
 ;============================================================
-Name      	"ZR6 WG-S"
+Name      	"ZR6 WeGo C"
 
 
 ;====================
@@ -31,7 +31,7 @@ MODEL 	15 	"NONE"
 MODEL 	16 	"NONE"
 MODEL 	17 	"cars\misc\Aerial.m"
 MODEL 	18 	"cars\misc\AerialT.m"
-TPAGE 	        "cars\ZR6S\carskin02.bmp"
+TPAGE   	"cars\ZR6WG3\carskin03.bmp"
 COLL    	"cars\ZR6\hull.hul"
 ;)TCARBOX       "cars\ZR6\box.bmp"
 ;)TSHADOW       "cars\ZR6\shadow.bmp"

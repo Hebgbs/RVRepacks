@@ -28,6 +28,7 @@ Repaints
 /ZR6T
 /ZR6WG1
 /ZR6WG2
+/ZR6WG3
 /ZR6X (Root for rearwing.prm)
 
 Mouse's wheels and Candy Pebbles' axel has been specially modified to play (somewhat) nicely with all textures. Other modifications include the hull, which is also from the R6, only repositioned to work with the higher wheelbase.
