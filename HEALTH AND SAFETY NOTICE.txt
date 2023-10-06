@@ -1,0 +1,75 @@
+ ####  ###  #   # ####  ----- ####  ##### ####  ####  #     #####  ####
+#     #   # #   # #   #       #   # #     #   # #   # #     #     #
+ ###  #   # #   # ####        ####  ###   ####  ####  #     ###    ###
+    # #   # #   # #   #       #     #     #   # #   # #     #         #
+####   ###   ###  #   #       #     ##### ####  ####  ##### ##### ####
+
+ ##         #   # #####  ###  #   #       #   # ##### ##### #####
+#  #        ## ## #     #   # ##  #       ## ##   #     #   #
+ ## #       # # # ###   ##### # # #       # # #   #     #   ###
+#  #        #   # #     #   # #  ##       #   #   #     #   #
+ ## #       #   # ##### #   # #   #       #   # #####   #   #####
+
+INTRODUCTION
+------------
+This set of cars go under the collective names of Mean Mite and Sour Pebbles. They are derivative works of Raume's Auricom (standard parameters) and gPstr's Ra 2014, exhibiting the characteristics of cars ready to pounce and make mincemeat of whoever dare stand in their way.
+
+Despite the appearance of \Ra_2014, the car isn't really there, just additional reskins (more on that below).
+
+INFORMATION
+-----------
+It is highly unlikely you will delete the following, but don't delete the following directories, as the reskins are entirely dependent upon them;
+\Auricom (Auricom)
+\candy (Candy Pebbles)
+\mite (Dust Mite)
+\Ra_2014 (Ra)
+
+The supplied reskins are in the following directories;
+\mmblue (Mean Mite Blue)
+\mmcanned (Mean Mite Canned)
+\mmclassic (Mean Mite)
+\mmdrone (Mean Mite Drone)
+\mmgreen (Mean Mite green)
+\mmred (Mean Mite Red)
+\mmwg1 (Mean Mite WeGO A)
+\mmwg2 (Mean Mite WeGo B)
+\mmyellow (Mean Mite Yellow)
+\spblue (Sur Pebbles Blue)
+\spclassic (SOur Pebbles)
+\spdrone (SOur Pebbles Drone)
+\spevil (SOur Evil Pebbles)
+\spgreen (SOur Pebbles Green)
+\spred (Sour Pebbles Red)
+\spwg1 (Sour Pebbles WeGo A)
+\spwg2 (Sour Pebbles WeGo B)
+\spx (SOur Pebbles X)
+
+\spyellow (SOur Pebbles Yellow)
+
+INSTRUCTIONS
+------------
+Simply copy \cars and merge the directory's contents into your game.
+If you do not have them already, also click on the URL files provided to download and install Auricom and Ra.
+
+ALTERNATE CONTENT
+-----------------
+Some people may not agree with the wheel colour of Ra 2014, so I had created alternate graphics users can append onto the parameters of Ra before duplicating into the game. As follows;
+- car1.bmp: All dark yellow wheels
+- car2.bmp: All dark grey wheels
+- car3.bmp: All like Candy Pebbles
+
+Be sure to look at the car first before tooling around with the parameters.
+
+\EBAparams are alternate parameters I believe accentuate and enhance the cars by adding a custom-coloured aerial onto each vehicle. Requires installation of ElectricBee's Aerials, accessible by a URL file in the root of the archive. You may lose any of your parameter changes when applying these parameters.
+
+\droneboxes are replacement car boxes for the drone repaints. Drop them into \cars in your game's directory to apply.
+
+CREDITS / BABBLE
+----------------
+All Mean Mite and Sour Pebbles reskins in red, blue, green, yellow and drone use the Tsunami Visual repaints as their base.
+
+Sour Evil Pebbles, Sour Pebbles X and Mean Mite Canned use graphical assets that never made it into retail copies of the game, and are the property of Probe / Acclaim Entertainment.
+
+Ra, the combined model assets of Phat Slug, Mouse and Candy Pebbles uses the property of Acclaim Entertainment. Collectively with its unique graphical assets as "Ra", is created by and credited to gPstr.
+
+Auricom, the re-parameter of Dust Mite uses the property of Acclaim Entertainent. Auricom (the name and team elblem) is property of Psygnosis / SCE Studio Liverpool. Collectively with its WipeOut-inspired graphical assets as "Auricom", is created by and credited to Raume.
