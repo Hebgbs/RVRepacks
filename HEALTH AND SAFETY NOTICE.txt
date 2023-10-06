@@ -12,7 +12,7 @@
 
 This pack contains (at the moment) two stock cars with some odd alterations that make them drive and handle rather strangely. As follows;
 
-2wheel mk2
+= 2wheel mk2 =
 RC Bandit with two wheels. Alterations for this pack;
 * Added front fork
 * Modified body.prm to not have the front bumper
@@ -22,7 +22,7 @@ RC Bandit with two wheels. Alterations for this pack;
 * Shadow made just for this pack
 * PRO-Ex reskin includes its own body to utilize the included texture
 
-Dust Mite 3 Wheels
+= Dust Mite 3 Wheels =
 Dust Mite... with three wheels. It drives like it has three wheels as well, because it tips and rolls like a Reliant Robin if you took all the weight off at high speeds. Alterations for this pack;
 * Repaints that include the Tsunami Visual skins
 * Also included a reimagining of the stock paint, and unaltered canned paint
@@ -42,6 +42,8 @@ Do not delete root cars, as they provide their assets to the other vehicles incl
 2wheelmk2 (Root car)
 2wheelpro (Special repaint)
 2wheelred
+2wheelwg1
+2wheelwg2
 2wheelyellow
 mite3blue
 mite3canned (Special repaint)
@@ -49,26 +51,7 @@ mite3classic (Special repaint)
 mite3drone
 mite3green
 mite3red
+mite3wg1
+mite3wg2
 mite3wheels (Root car)
 mite3yellow
-
-For special bonus repaints, scan the QR code below!
-(Problems? Set font to Courier, Courier New, Monospace or Lucida Console.)
-
-
-    ▄▄▄▄▄▄▄ ▄▄▄▄ ▄▄▄ ▄ ▄  ▄▄▄▄▄▄▄
-    █ ▄▄▄ █ ▀▄ ▀ ▄ ▀ ▄▀▄▀ █ ▄▄▄ █
-    █ ███ █ ▄  ██  ██ █▄▀ █ ███ █
-    █▄▄▄▄▄█ █▀█ █▀█ █▀█ █ █▄▄▄▄▄█
-    ▄▄▄  ▄▄ ██ ▄▄█ ▄▄ ▀█▀▄▄▄▄  ▄▄
-    █▄ ▄▀▀▄▄▄▄▄ █▄▄ █  ██ ▀ ▄▄▄▀█
-    ▄▄█▄▀▀▄▄▀▄█▀▀▄█▀█ ▀   █ ▀▀  ▄
-    ▄▀ ▄▄▀▄▄ ▄▀▄ ▀▀▄▄ █▄▀▄██▄  ▀█
-    ▄▀█▀ ▀▄  ▀ ▄▄█ █  ▄██▀█     ▄
-    ▄█▄▀█▀▄ ▀ ▄ █▄▄█  ▀█▀ ▀▀ ▄▀▀█
-    ▄▄▄▀ █▄▀▄▀▄▀▀▄█    ▄█████▄ ▄ 
-    ▄▄▄▄▄▄▄ ▀▄▀▄ ▀▀▄▀▄█▄█ ▄ █▀▀ █
-    █ ▄▄▄ █ ▀▄▀▄▄█ █▀ ▀██▄▄▄█▄ █▄
-    █ ███ █ ▄ █ █▄▄██▀ ▀▀█  █▀▀▄█
-    █▄▄▄▄▄█ █▄▀▀▀▄█▀█▄ ▄█▀████  ▄
-
