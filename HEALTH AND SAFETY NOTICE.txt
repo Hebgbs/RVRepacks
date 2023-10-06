@@ -1,0 +1,32 @@
+####  #   # ####  #   #       #     ##### ##### #####
+#   # #   # #   #  # #        #       #     #   #
+####  # # # ####    #         #       #     #   ###
+#  #  # # # #   #   #         #       #     #   #
+#   #  ###  ####    #         ##### #####   #   #####
+
+ ##         ####   ####  ##    ###  #####  ###
+#  #        #   # #     # #   #  ##   #   #   #
+ ## #       ####  #       #   # # #   #      #
+#  #        #  #  #       #   ##  #   #     E
+ ## #       #   #  #### #####  ###    #   #####
+
+Root car (do not delete):
+/RVCC_T2
+
+Reskins:
+/BLAKE
+/RUBY
+/RVCC_T
+/RVCC_T2a
+/RVCC_T2b
+/RVCC_T2c
+/WEISS
+/YANG
+
+These are really cool re-paints of RC10T2. The problem lies in how they're packaged. Included, each of the RWBY reskins include the following:
+* Modified parameters to make vehicles dependent on RC10T2
+* Original RC10T2 parameters for each car
+* Stock paramteres for each car (different from RC10T2 original)
+* Compressed bitmaps as BMQ files
+
+Before extracing these content, it is recommended you delete the original RWBY pack vehicles first so useless files are removed from your Re-Volt installation. All cars will load as RC10T2's reskins do after installation is complete.
