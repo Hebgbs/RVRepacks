@@ -29,8 +29,8 @@ MODEL 	13 	"NONE"
 MODEL 	14 	"NONE"
 MODEL 	15 	"NONE"
 MODEL 	16 	"NONE"
-MODEL 	17 	"cars\misc\Aerial.m"
-MODEL 	18 	"cars\misc\AerialT.m"
+MODEL 	17 	"cars\misc\ebas-0000bf.m"
+MODEL 	18 	"cars\misc\ebat-ff0000.m"
 TCARBOX "cars\Auricom\carbox.bmp"
 ;)shadowindex 1
 ;)shadowtable -39.2 39.2 54.8 -50.2 -2.85 
