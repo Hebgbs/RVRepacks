@@ -29,8 +29,8 @@ MODEL 	13 	"NONE"
 MODEL 	14 	"NONE"
 MODEL 	15 	"NONE"
 MODEL 	16 	"NONE"
-MODEL 	17 	"cars\misc\Aerial.m"
-MODEL 	18 	"cars\misc\AerialT.m"
+MODEL 	17 	"cars\misc\ebas-bfbfbf.m"
+MODEL 	18 	"cars\misc\ebat-bf0000.m"
 TPAGE 	"cars\phatRed\car.bmp.01.bmp"
 ;)SHADOWINDEX 2
 ;)SHADOWTABLE -54.0 54.0 58.3 -70.6 -11.73

@@ -29,10 +29,10 @@ MODEL 	13 	"NONE"
 MODEL 	14 	"NONE"
 MODEL 	15 	"NONE"
 MODEL 	16 	"NONE"
-MODEL 	17 	"cars\misc\Aerial.m"
-MODEL 	18 	"cars\misc\AerialT.m"
-TPAGE 	"cars\gencarYellow\car.bmp.04.bmp"
-;)TCARBOX "cars\gencarYellow\carbox.bmp"
+MODEL 	17 	"cars\misc\ebas-bfbfbf.m"
+MODEL 	18 	"cars\misc\ebat-bfbf00.m"
+TPAGE 	"cars\gencaryellow\car.bmp.04.bmp"
+;)TCARBOX "cars\gencaryellow\carbox.bmp"
 ;)SHADOWINDEX 10
 ;)SHADOWTABLE -50.4 50.4 71.6 -70.3 -7.88
 COLL 	"cars\gencar\hull.hul"
@@ -97,7 +97,7 @@ ModelNum 	1
 Offset1  	-25.000000 4.700000 35.000000
 Offset2  	-4.500000 0.000000 0.000000
 IsPresent   	TRUE
-IsPoweYellow   	TRUE
+IsPowered   	TRUE
 IsTurnable  	TRUE
 SteerRatio  	-0.350000
 EngineRatio 	11000.000000
@@ -118,7 +118,7 @@ ModelNum 	2
 Offset1  	25.000000 4.700000 35.000000
 Offset2  	4.500000 0.000000 0.000000
 IsPresent   	TRUE
-IsPoweYellow   	TRUE
+IsPowered   	TRUE
 IsTurnable  	TRUE
 SteerRatio  	-0.350000
 EngineRatio 	11000.000000
@@ -139,7 +139,7 @@ ModelNum 	3
 Offset1  	-24.000000 4.700000 -38.000000
 Offset2  	-6.000000 0.000000 0.000000
 IsPresent   	TRUE
-IsPoweYellow   	TRUE
+IsPowered   	TRUE
 IsTurnable  	TRUE
 SteerRatio  	0.030000
 EngineRatio 	11000.000000
@@ -160,7 +160,7 @@ ModelNum 	4
 Offset1  	24.000000 4.700000 -38.000000
 Offset2  	6.000000 0.000000 0.000000
 IsPresent   	TRUE
-IsPoweYellow   	TRUE
+IsPowered   	TRUE
 IsTurnable  	TRUE
 SteerRatio  	0.030000
 EngineRatio 	11000.000000
