@@ -5,7 +5,7 @@
 ; Dust Mite
 ;============================================================
 ;============================================================
-Name		"Mite 3W WG-S"
+Name		"Mite 3W WeGo A"
 
 
 ;====================
@@ -30,7 +30,7 @@ MODEL 	14 	"NONE"
 MODEL 	15 	"NONE"
 MODEL 	16 	"NONE"
 MODEL 	17 	"cars\misc\Aerial.m"
-MODEL 	18 	"cars\misc\AerialT.m"
+MODEL 	18 	"cars\misc\ebat-0080ff.m"
 TPAGE 	"cars\mite3WG1\carskin01.bmp"
 COLL 	"cars\mite3wheels\hull.hul"
 ;)TSHADOW     "cars\mite3wheels\shadow.bmp"

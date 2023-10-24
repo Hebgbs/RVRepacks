@@ -5,7 +5,7 @@
 ; RC Bandit
 ;============================================================
 ;============================================================
-Name      	"2wheeler WG-S"
+Name      	"2wheeler WeGo A"
 
 
 ;====================
@@ -30,8 +30,8 @@ MODEL 	14 	"NONE"
 MODEL 	15 	"NONE"
 MODEL 	16 	"NONE"
 MODEL 	17 	"cars\misc\Aerial.m"
-MODEL 	18 	"cars\misc\AerialT.m"
-TPAGE 	"cars\2wheelwgs\carskin01.bmp"
+MODEL 	18 	"cars\misc\ebat-00ff00.m"
+TPAGE 	"cars\2wheelwg1\carskin01.bmp"
 COLL 	"cars\2wheelmk2\hull.hul"
 ;)TSHADOW       "cars\2wheelmk2\shadow.bmp"
 ;)SHADOWTABLE   -21.2 21.2 65.1 -63.1 1.8
